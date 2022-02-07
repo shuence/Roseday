@@ -8,7 +8,20 @@ body, html {
   background: linear-gradient(to right, #43cea2 , #185a9d);
 }
 
+h1{
+  text-align: right;
+  margin-top: 550px;
+  width: auto;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+}
+p{
+  text-align: justify;
+  margin-left: 250px;
+  font-family: 'Courier New', Courier, monospace;
+  color: aqua;
 
+}
 .rose {
   position: relative;
   width: 100px;
