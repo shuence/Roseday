@@ -5,8 +5,9 @@ body, html {
     padding: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(to right, #86b6f1, #85d5e4);
+  background: linear-gradient(to right, #43cea2 , #185a9d);
 }
+
 
 .rose {
   position: relative;
